@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Real-World+Web+Applications;React+%2B+Node.js+%2B+NestJS;Backend+%26+Database+Engineering;Exploring+AI-Powered+Applications+%F0%9F%A4%96" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Real-World+Web+Applications;React+%2B+Node.js+%2B+NestJS;Backend+%26+Database+Engineering;AI+%2B+Computer+Vision+%F0%9F%A4%96;Turning+Ideas+Into+Working+Systems" alt="Typing SVG"/>
 
 <br><br>
 
@@ -26,13 +26,11 @@
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
 
-## 👋 Hey, I'm Rishik
+## 👋 Hey, I'm Rishik!
 
 ### I build applications where **Frontend × Backend × AI** meet.
 
@@ -40,6 +38,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### 🎨 Frontend
@@ -66,14 +65,20 @@ Laravel
 
 ### 🤖 AI
 
-OpenAI  
-Gemini  
+LLMs  
+Computer Vision  
 Speech Processing  
-LLM Applications
+AI Automation
 
 </td>
+
 </tr>
 </table>
+
+<br>
+
+> 💡 I enjoy taking an idea from **"What if we build this?"**
+> to **"Wait... it's actually working!"** 🚀
 
 </div>
 
@@ -84,12 +89,12 @@ LLM Applications
 Hey! I'm **Rishik Chaudhary** 👋
 
 I'm a **Full Stack Developer** who enjoys building practical software,
-designing backend systems, working with databases, and experimenting with
-AI-powered features.
+designing backend systems, working with databases, and integrating AI
+into real-world applications.
 
-Currently working as a **Junior Software Developer**, where I've had the
-opportunity to work across modern JavaScript/TypeScript stacks as well as
-PHP/Laravel-based systems.
+I've worked across modern **JavaScript/TypeScript ecosystems** as well as
+**PHP/Laravel-based systems**, and I especially enjoy projects where
+frontend, backend and intelligent processing come together.
 
 ```yaml
 name: Rishik Chaudhary
@@ -105,6 +110,7 @@ focus:
   - Backend Engineering
   - AI-powered Applications
   - Real-time Applications
+  - Computer Vision
 
 frontend:
   - React
@@ -132,8 +138,9 @@ orms:
 ai:
   - OpenAI
   - Google Gemini
+  - YOLO
   - Speech-to-Text
   - LLM APIs
-  - AI Evaluation Systems
+  - Computer Vision
 
 goal: "Build software that solves real problems 🚀"
