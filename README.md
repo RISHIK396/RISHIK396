@@ -10,11 +10,11 @@
 
 <br><br>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/RISHIK396">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </a>
 
-<a href="https://github.com/your-github-username?tab=followers">
+<a href="https://github.com/RISHIK396?tab=followers">
 <img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=6C63FF&label=Followers" />
 </a>
 
