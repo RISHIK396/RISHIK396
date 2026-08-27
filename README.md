@@ -8,17 +8,33 @@
 
 <br><br>
 
+<div align="center">
+
 <a href="https://github.com/RISHIK396">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=18111F"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="42" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-<img src="https://img.shields.io/badge/LinkedIn-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=24113F"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="42" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rishik36chaudhary@gmail.com">
-<img src="https://img.shields.io/badge/Email-E9D5FF?style=for-the-badge&logo=gmail&logoColor=7C3AED"/>
+<img src="https://img.icons8.com/fluency/96/gmail.png" width="42" alt="Email"/>
 </a>
+
+<br>
+
+<sub>
+<a href="https://github.com/RISHIK396">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:rishik36chaudhary@gmail.com">Email</a>
+</sub>
+
+</div>
 
 <br><br>
 
