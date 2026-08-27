@@ -386,17 +386,17 @@ B.Sc. Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK396&theme=radical&hide_border=true" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -406,7 +406,7 @@ B.Sc. Computer Science
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=RISHIK396&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -433,72 +433,19 @@ B.Sc. Computer Science
 
 ---
 
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **Build → Break → Debug → Learn → Improve → Repeat 🔁**
-
-<br>
-
-I believe the best way to learn software engineering is to
-**build real things, break them, understand why they broke, and fix them.**
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-<table align="center">
-
-<tr>
-<td>🚀</td>
-<td><b>Become a stronger Full Stack Engineer</b></td>
-</tr>
-
-<tr>
-<td>🤖</td>
-<td><b>Build production-grade AI applications</b></td>
-</tr>
-
-<tr>
-<td>🧠</td>
-<td><b>Master DSA & Problem Solving</b></td>
-</tr>
-
-<tr>
-<td>☕</td>
-<td><b>Become comfortable with Java</b></td>
-</tr>
-
-<tr>
-<td>🏗️</td>
-<td><b>Improve Backend & System Design skills</b></td>
-</tr>
-
-<tr>
-<td>🌎</td>
-<td><b>Contribute to meaningful open-source projects</b></td>
-</tr>
-
-</table>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:rishik36chaudhary@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/RISHIK396">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
