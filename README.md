@@ -1,176 +1,285 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Rishik%20Chaudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Rishik%20Chaudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=68&descSize=20"
+width="100%"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+NestJS;Backend+%26+Database+Engineering;AI-Powered+Applications+%F0%9F%A4%96;Building+Real-World+Software" alt="Typing SVG"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=C084FC&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+NestJS;Backend+%26+Database+Engineering;AI+Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Working+Products"
+/>
 
 <br><br>
 
 <a href="https://github.com/RISHIK396">
-<img src="https://img.shields.io/badge/GitHub-RISHIK396-1F1B2E?style=for-the-badge&logo=github&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/GitHub-RISHIK396-16121F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2D2342?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-16121F?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
 </a>
-
+&nbsp;
 <a href="mailto:rishik36chaudhary@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-33264D?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-16121F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RISHIK396&label=PROFILE+VIEWS&color=C084FC&style=for-the-badge"/>
+<img
+src="https://komarev.com/ghpvc/?username=RISHIK396&label=PROFILE+VIEWS&color=9B5DE5&style=for-the-badge"
+/>
 
 <br><br>
 
-### 💜 Build • Break • Debug • Learn • Repeat
+> **💜 Build. Break. Debug. Understand. Improve.**
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hey! I'm **Rishik Chaudhary** 👋
+<div align="center">
 
-I'm a **Full Stack Developer** interested in building real-world applications across:
+<table>
+<tr>
 
-* ⚛️ Frontend Development
-* ⚙️ Backend Engineering
-* 🗄️ Database Architecture
-* 🤖 AI-powered Applications
-* 🔄 Real-time Systems
+<td width="58%" valign="top">
 
-I enjoy taking an idea from **architecture → code → debugging → production** 🚀
+### Hey, I'm Rishik 👋
 
-```yaml
-name: Rishik Chaudhary
-role: Full Stack Developer
+I'm a **Full Stack Developer** who enjoys building applications across the entire stack — from interfaces and APIs to databases and AI-powered features.
 
-education:
-  degree: B.Sc. (Hons.) Computer Science
-  university: University of Delhi
+I like working on systems that solve **real problems** and learning how the pieces behind them actually work.
 
-focus:
-  - Full Stack Development
-  - Backend Engineering
-  - AI × Software Engineering
-  - Scalable Applications
-  - Real-time Systems
+<br>
 
-currently_exploring:
-  - AI Agents
-  - LLM Applications
-  - Computer Vision
-  - AI Automation
+**Currently focused on**
+
+🧩 Full Stack Engineering
+⚙️ Backend Architecture
+🗄️ Database Design
+🤖 AI × Software Engineering
+🔄 Real-Time Applications
+
+</td>
+
+<td width="42%" valign="top">
+
+```text
+╭──────────────────────────╮
+│        DEVELOPER         │
+├──────────────────────────┤
+│ ⚛️  Frontend             │
+│ ⚙️  Backend              │
+│ 🗄️  Databases            │
+│ 🤖  Artificial Intelligence│
+│ 🔄  Real-Time Systems    │
+│ 🚀  Product Development  │
+╰──────────────────────────╯
 ```
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,php&perline=5&theme=dark"/>
 
 <br><br>
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&perline=5&theme=dark"/>
 
 <br><br>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,fastapi&perline=5&theme=dark"/>
 
 <br><br>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3&theme=dark"/>
 
 <br><br>
 
-### 🔗 Tools & Libraries
+### 🔗 ORM • Real-Time • Infrastructure
 
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/Drizzle_ORM-241F31?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
-<img src="https://img.shields.io/badge/Mongoose-2A1820?style=for-the-badge&logo=mongoose&logoColor=F87171"/>
-<img src="https://img.shields.io/badge/Socket.IO-211F2A?style=for-the-badge&logo=socket.io&logoColor=ffffff"/>
+<img src="https://skillicons.dev/icons?i=prisma,git,github,docker&perline=4&theme=dark"/>
 
 <br><br>
 
-### 🤖 AI
-
-<img src="https://img.shields.io/badge/OpenAI-241F31?style=for-the-badge&logo=openai&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/Google_Gemini-251F3A?style=for-the-badge&logo=google&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Drizzle_ORM-241B30?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
+<img src="https://img.shields.io/badge/Socket.IO-241B30?style=for-the-badge&logo=socket.io&logoColor=FFFFFF"/>
 
 <br><br>
 
-### 🔧 Developer Tools
+### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=3&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenAI-241B30?style=for-the-badge&logo=openai&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Google_Gemini-241B30?style=for-the-badge&logo=google&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Faster--Whisper-241B30?style=for-the-badge&logoColor=C084FC"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Work
+
+<div align="center">
+
+### Building things that combine **software + data + intelligence**
+
+</div>
+
+---
 
 ## 🎙️ AI-Powered IELTS Speaking Evaluator
 
-An AI-powered system for analysing IELTS Speaking responses using **Speech-to-Text, language analysis and LLMs**.
+> **Speech → Analysis → AI → Evaluation**
+
+An AI-powered system designed to analyse IELTS Speaking responses using speech processing, language analysis and LLMs.
 
 ```text
-🎤 Audio
-   ↓
+🎤 User Audio
+      │
+      ▼
 🗣️ Speech-to-Text
-   ↓
-📝 Transcript + Audio Analysis
-   ↓
-📊 Grammar • Vocabulary • Fluency • Pronunciation
-   ↓
-🤖 Gemini / GPT
-   ↓
-📈 IELTS Evaluation
+      │
+      ▼
+📝 Transcript + Audio Metrics
+      │
+      ▼
+┌───────────────────────────────┐
+│ Grammar                       │
+│ Vocabulary                    │
+│ Fluency & Coherence           │
+│ Pronunciation                 │
+└───────────────┬───────────────┘
+                │
+                ▼
+          🤖 Gemini / GPT
+                │
+                ▼
+        📊 IELTS Evaluation
 ```
 
-**Stack:** `Laravel` `Python` `Faster-Whisper` `LanguageTool` `Gemini` `OpenAI`
+<details>
+<summary><b>🔍 Evaluation Pipeline</b></summary>
+
+<br>
+
+| Module             | Purpose                                       |
+| ------------------ | --------------------------------------------- |
+| 🗣️ Speech-to-Text | Convert spoken responses into transcripts     |
+| ✍️ Grammar         | Detect grammar errors and patterns            |
+| 📚 Vocabulary      | Analyse lexical usage and range               |
+| 🗣️ Fluency        | Analyse flow, pauses and response structure   |
+| 🔊 Pronunciation   | Analyse speech-related audio features         |
+| 🎴 Cue Card        | Evaluate response relevance to context        |
+| 💬 Discussion      | Evaluate relevance and response quality       |
+| 🤖 LLM             | Generate higher-level evaluation and feedback |
+
+</details>
+
+**Stack**
+
+`Laravel` `Python` `Faster-Whisper` `LanguageTool` `Gemini` `OpenAI`
 
 ---
 
 ## 🔥 Fire & Smoke Detection
 
-AI-powered computer vision system for detecting **fire and smoke from camera streams**.
+> **Computer Vision for real-world safety monitoring**
+
+A computer-vision system designed to identify **fire and smoke** from camera streams and surface useful alerts through a monitoring interface.
 
 ```text
 📹 CCTV / IP Camera
-        ↓
+        │
+        ▼
      OpenCV
-        ↓
+        │
+        ▼
    YOLO Detection
-        ↓
-🔥 Fire / 💨 Smoke
-        ↓
-🚨 Alerts + Dashboard
+        │
+    ┌───┴────┐
+    ▼        ▼
+ 🔥 Fire   💨 Smoke
+    │        │
+    └───┬────┘
+        ▼
+   🚨 Alert Engine
+        │
+        ▼
+   📊 React Dashboard
 ```
 
-**Stack:** `Python` `OpenCV` `YOLO` `FastAPI` `React` `TypeScript` `Socket.IO`
+<details>
+<summary><b>🚨 Core Features</b></summary>
+
+<br>
+
+🔥 Fire detection
+💨 Smoke detection
+📹 Camera stream processing
+📸 Detection snapshots
+⏱️ Detection timestamps
+📍 Camera information
+🚨 Real-time alerts
+📊 Monitoring dashboard
+
+</details>
+
+**Stack**
+
+`Python` `OpenCV` `YOLO` `FastAPI` `React` `TypeScript` `Socket.IO`
 
 ---
 
-## 🏢 CRM & Enterprise Applications
+## 🏢 CRM & Enterprise Systems
 
-Production-oriented CRM features involving **dynamic lists, role-based permissions, REST APIs, databases, notifications and real-time communication**.
+> **Building production-oriented business applications**
 
-**Stack:** `React` `Node.js` `NestJS` `Laravel` `MySQL` `PostgreSQL` `Drizzle` `Prisma` `Socket.IO`
+Experience working across frontend, backend and database layers for CRM functionality involving dynamic lists, role-based permissions, APIs, notifications and real-time communication.
+
+```text
+⚛️ React
+   ↓
+⚙️ APIs
+   ↓
+🔐 Permissions
+   ↓
+🗄️ Database
+   ↓
+🔔 Notifications
+   ↓
+🔄 Real-Time Communication
+```
+
+**Stack**
+
+`React` `Node.js` `NestJS` `Laravel`
+`MySQL` `PostgreSQL` `Drizzle` `Prisma` `Socket.IO`
 
 ---
 
@@ -178,51 +287,114 @@ Production-oriented CRM features involving **dynamic lists, role-based permissio
 
 <div align="center">
 
-### Building software where AI is part of the product — not just an add-on. 💜
+### I want AI to be part of the product — not just a separate feature.
 
 <br>
 
-`LLM APIs` • `Gemini` • `OpenAI` • `Speech Processing`
+<table>
+<tr>
 
-`AI Evaluation` • `Computer Vision` • `AI Agents` • `Automation`
+<td align="center" width="25%">
+
+### 🧠
+
+**LLMs**
+
+OpenAI
+Gemini
+Prompt Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎙️
+
+**Speech**
+
+Speech-to-Text
+Audio Analysis
+Evaluation
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️
+
+**Vision**
+
+OpenCV
+YOLO
+Computer Vision
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Automation**
+
+AI APIs
+Workflows
+Intelligent Systems
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ```text
-          ⚛️ React
-             │
-             ▼
-      ⚙️ Backend APIs
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-   🗄️ Database    🤖 AI
-                   │
-          ┌────────┼────────┐
-          ▼        ▼        ▼
-       LLMs     Speech     Vision
-          │
-          ▼
-   🧠 Intelligent Features
+               ⚛️ FRONTEND
+                    │
+                    ▼
+              ⚙️ BACKEND
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      🗄️ DATABASE          🤖 AI LAYER
+                              │
+                ┌─────────────┼─────────────┐
+                ▼             ▼             ▼
+              🧠 LLM        🎙️ Speech      👁️ Vision
+                │             │             │
+                └─────────────┼─────────────┘
+                              ▼
+                   🚀 Intelligent Product
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"
+height="175"
+/>
 
-<img src="https://streak-stats.demolab.com/?user=RISHIK396&theme=dracula&hide_border=true" height="180"/>
+<img
+src="https://streak-stats.demolab.com/?user=RISHIK396&theme=tokyonight&hide_border=true"
+height="175"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
+height="175"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&theme=dracula&hide_border=true&area=true" width="95%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&theme=react-dark&hide_border=true&area=true"
+width="94%"
+/>
 
 </div>
 
@@ -236,87 +408,148 @@ Production-oriented CRM features involving **dynamic lists, role-based permissio
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake-dark.svg"/>
+srcset="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake-dark.svg"
+/>
 
 <source
 media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake.svg"/>
+srcset="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake.svg"
+/>
 
 <img
 src="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake-dark.svg"
 alt="GitHub Contribution Snake"
-width="90%"
+width="88%"
 />
 
 </picture>
 
 <br><br>
 
-### 🐍 Contributions go in → Snake comes out 😂
+🐍 **Apparently my contribution graph needed a predator.** 😂
 
 </div>
 
 ---
 
-# 🎯 Currently Working Towards
+# 🎯 What I'm Exploring
 
 <div align="center">
 
-|       🚀 Engineering      |        🤖 AI       | 🧠 Problem Solving |
-| :-----------------------: | :----------------: | :----------------: |
-| Better Full Stack Systems | Useful AI Products |    Stronger DSA    |
-|      Scalable Backend     |      AI Agents     |  Better Algorithms |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+## 🏗️
+
+### Backend
+
+Scalable APIs
+Architecture
+Databases
+
+</td>
+
+<td align="center" width="33%">
+
+## 🤖
+
+### AI
+
+LLM Applications
+AI Agents
+Automation
+
+</td>
+
+<td align="center" width="33%">
+
+## 🧠
+
+### Problem Solving
+
+DSA
+Algorithms
+System Thinking
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 💭 Philosophy
+# 📌 Developer Principles
 
 <div align="center">
 
-### **Build → Break → Debug → Understand → Improve 🔁**
+### 🔹 Understand the problem before writing code
 
-<br>
+### 🔹 Keep learning by building real projects
 
-> **"Don't just make it work. Understand why it works."**
+### 🔹 Debugging is part of engineering
+
+### 🔹 Good software should be understandable
+
+### 🔹 Build → Break → Fix → Improve 🔁
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# 🌐 Let's Connect
 
 <div align="center">
 
-### Have an interesting idea, project or opportunity?
+### 💜 Have an idea, project or opportunity?
 
-### Let's build something. 🚀
+### Let's build something interesting. 🚀
 
 <br>
 
 <a href="https://github.com/RISHIK396">
-<img src="https://img.shields.io/badge/GitHub-RISHIK396-1F1B2E?style=for-the-badge&logo=github&logoColor=C084FC"/>
+<img
+src="https://img.shields.io/badge/GitHub-Explore-18151F?style=for-the-badge&logo=github&logoColor=FFFFFF"
+/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-<img src="https://img.shields.io/badge/LinkedIn-Rishik%20Chaudhary-2D2342?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+<img
+src="https://img.shields.io/badge/LinkedIn-Connect-18151F?style=for-the-badge&logo=linkedin&logoColor=C084FC"
+/>
 </a>
+
+ 
 
 <a href="mailto:rishik36chaudhary@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rishik36chaudhary-33264D?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+<img
+src="https://img.shields.io/badge/Gmail-Say_Hi-18151F?style=for-the-badge&logo=gmail&logoColor=EA4335"
+/>
 </a>
+
+<br><br>
 
 <a href="https://github.com/RISHIK396?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-3B275A?style=for-the-badge&logo=github&logoColor=C084FC"/>
+<img
+src="https://img.shields.io/badge/🚀_Repositories-18151F?style=for-the-badge&labelColor=18151F&color=9B5DE5"
+/>
 </a>
 
 <br><br>
 
-⭐ **Thanks for visiting — feel free to explore my repositories!**
+⭐ **Thanks for visiting my profile!**
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=150&section=footer"
+width="100%"
+/>
 
 </div>
+
