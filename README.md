@@ -2,20 +2,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Rishik%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Junior%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,25&height=230&section=header&text=Hi%20There,%20I'm%20Rishik%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Junior%20Software%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+NestJS;Building+Real-World+Web+Applications;AI-Powered+Applications+%F0%9F%A4%96;Currently+Sharpening+Java+%26+DSA+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+NestJS;Building+Real-World+Web+Applications;AI-Powered+Applications+%F0%9F%A4%96;Currently+Sharpening+Java+%26+DSA+%E2%98%95" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://github.com/RISHIK396">
-<img src="https://komarev.com/ghpvc/?username=RISHIK396&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=RISHIK396&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/RISHIK396?tab=followers">
-<img src="https://img.shields.io/github/followers/RISHIK396?style=for-the-badge&color=6C63FF&label=Followers" />
+<img src="https://img.shields.io/github/followers/RISHIK396?style=for-the-badge&color=00D9FF&label=Followers" />
 </a>
 
 </div>
@@ -322,11 +322,11 @@ Areas I'm experimenting with:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Learning-00D9FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <br><br>
 
-<img src="https://progress-bar.xyz/40/?title=Java&width=400&color=ED8B00"/>
+<img src="https://progress-bar.xyz/40/?title=Java&width=400&color=00D9FF"/>
 
 <br><br>
 
@@ -382,17 +382,17 @@ B.Sc. Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK396&theme=radical&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK396&theme=tokyonight&hide_border=true" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -402,7 +402,7 @@ B.Sc. Computer Science
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RISHIK396&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=RISHIK396&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -417,7 +417,7 @@ B.Sc. Computer Science
 
 <br>
 
-<img src="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <br><br>
 
@@ -461,6 +461,6 @@ B.Sc. Computer Science
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,25&height=130&section=footer" width="100%"/>
 
 </div>
