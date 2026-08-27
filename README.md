@@ -336,17 +336,127 @@ width="85%"
 
 <div align="center">
 
-`🏗️ Backend Architecture`
+### 🧠 Things I'm learning, building & experimenting with
 
-`🤖 AI Agents`
+<br>
 
-`🧠 DSA`
+<table>
+<tr>
 
-`👁️ Computer Vision`
+<td align="center" width="25%">
 
-`🎙️ Speech Processing`
+<img src="https://img.icons8.com/fluency/96/server.png" width="48"/>
 
-`⚡ AI Automation`
+### 🏗️ Backend
+
+<sub>
+Architecture<br>
+Scalable APIs
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/>
+
+### 🤖 AI
+
+<sub>
+AI Agents<br>
+LLM Applications
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="48"/>
+
+### 🧠 DSA
+
+<sub>
+Algorithms<br>
+Problem Solving
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/voice-presentation.png" width="48"/>
+
+### 🎙️ Speech
+
+<sub>
+Speech Processing<br>
+Audio Intelligence
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/visible.png" width="48"/>
+
+### 👁️ Vision
+
+<sub>
+Computer Vision<br>
+Object Detection
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/lightning-bolt.png" width="48"/>
+
+### ⚡ Automation
+
+<sub>
+AI Workflows<br>
+Intelligent Systems
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/database.png" width="48"/>
+
+### 🗄️ Data
+
+<sub>
+Database Design<br>
+Optimization
+</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="48"/>
+
+### 🚀 Projects
+
+<sub>
+Build → Test<br>
+→ Ship
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<sub>💜 Always learning. Always building.</sub>
 
 </div>
 
