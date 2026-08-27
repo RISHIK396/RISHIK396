@@ -1,9 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:4C1D95,75:7C3AED,100:A855F7&height=260&section=header&text=Rishik%20Chaudhary&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20AI%20ENGINEER&descAlignY=59&descSize=18&descColor=E9D5FF" width="100%"/>
-<div align="center">
 
 <div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=C084FC&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+NestJS;Backend+%26+Database+Engineering;AI+Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Working+Products" />
 
 <a href="https://github.com/RISHIK396">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white&labelColor=18181B" />
