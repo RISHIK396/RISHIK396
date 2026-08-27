@@ -11,11 +11,11 @@
 <br><br>
 
 <a href="https://github.com/RISHIK396">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=RISHIK396&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/RISHIK396?tab=followers">
-<img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=6C63FF&label=Followers" />
+<img src="https://img.shields.io/github/followers/RISHIK396?style=for-the-badge&color=6C63FF&label=Followers" />
 </a>
 
 </div>
@@ -330,10 +330,6 @@ Areas I'm experimenting with:
 
 <br><br>
 
-**Current focus**
-
-`Arrays` → `Searching` → `Two Pointer` → `Kadane` → `Hashing` → `Linked Lists` → `Trees` → `Graphs`
-
 </div>
 
 ---
@@ -421,7 +417,7 @@ B.Sc. Computer Science
 
 <br>
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/RISHIK396/RISHIK396/output/github-contribution-grid-snake.svg" width="90%"/>
 
 <br><br>
 
