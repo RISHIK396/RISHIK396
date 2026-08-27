@@ -9,22 +9,29 @@
 <div align="center">
 
 <a href="https://github.com/RISHIK396">
-  <img src="https://cdn.simpleicons.org/github/E9D5FF" width="36" alt="GitHub"/>
+<img src="https://img.shields.io/badge/◉_GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=18181B&color=2A2A32"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 
 <a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-  <img src="https://cdn.simpleicons.org/linkedin/C084FC" width="36" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/↗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=1769AA"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 
 <a href="mailto:rishik36chaudhary@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/F0ABFC" width="36" alt="Email"/>
+<img src="https://img.shields.io/badge/✉_Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D14836&color=EA4335"/>
+</a>
+
+ 
+
+<a href="https://github.com/RISHIK396?tab=repositories">
+<img src="https://img.shields.io/badge/⌘_Projects-6D28D9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4C1D95&color=7C3AED"/>
 </a>
 
 </div>
+
 <sub>
 <a href="https://github.com/RISHIK396">GitHub</a>
 &nbsp; • &nbsp;
