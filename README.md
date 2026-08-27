@@ -286,21 +286,37 @@ Intelligent Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0718&title_color=D8B4FE&icon_color=A855F7&text_color=E9D5FF" height="175"/>
+<a href="https://github.com/RISHIK396">
 
-<img src="https://streak-stats.demolab.com/?user=RISHIK396&hide_border=true&background=0D0718&ring=C084FC&fire=A855F7&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&hide_border=true&theme=transparent&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&bg_color=00000000"
+width="48%"
+/>
+
+</a>
+
+<a href="https://github.com/RISHIK396">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK396&theme=transparent&hide_border=true&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&background=00000000"
+width="48%"
+/>
+
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&hide_border=true&langs_count=8&bg_color=0D0718&title_color=D8B4FE&text_color=E9D5FF" height="175"/>
+<a href="https://github.com/RISHIK396">
 
-<br><br>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&hide_border=true&theme=transparent&title_color=C084FC&text_color=E9D5FF&bg_color=00000000&langs_count=8"
+width="42%"
+/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&bg_color=0D0718&color=D8B4FE&line=A855F7&point=FFFFFF&area=true&area_color=7E22CE&hide_border=true" width="94%"/>
+</a>
 
 </div>
-
----
+---------
 
 # 🐍 Contribution Snake
 
