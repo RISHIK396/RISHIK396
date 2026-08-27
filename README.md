@@ -8,22 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=C084FC&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+NestJS;Backend+%26+Database+Engineering;AI+Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Working+Products" />
 
-<a href="https://github.com/RISHIK396">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white&labelColor=18181B" />
-</a>
-
-<a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-
-<a href="mailto:rishik36chaudhary@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-
-<a href="https://github.com/RISHIK396?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=4C1D95" />
-</a>
-
 </div>
 
 <!-- <sub>
