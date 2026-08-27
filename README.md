@@ -286,9 +286,11 @@ Intelligent Systems
 
 <div align="center">
 
-<div align="center">
+<a href="https://github.com/RISHIK396">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIK396&theme=github-compact&hide_border=true" width="92%" alt="GitHub Activity Graph"/>
+</a>
 
-[![Rishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RISHIK396)](https://github.com/RISHIK396)
+<br><br>
 
 </div>
 <a href="https://github.com/RISHIK396">
