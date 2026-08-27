@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rishik Chaudhary 👋</h1>
 
-<h3 align="center">Jr Software Developer | Frontend Dev @ Down Town Engineers | AI-focused Engineer in the making</h3>
+<h3 align="center">Software Developer | Jr Software Developer @ Down Town Engineers | AI-focused Engineer in the making</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Apps;React+%2B+NestJS+%2B+PostgreSQL;Always+shipping%2C+always+learning;Open+to+AI-focused+Full+Stack+roles" alt="Typing SVG" />
