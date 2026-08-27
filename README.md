@@ -286,20 +286,16 @@ Intelligent Systems
 
 <div align="center">
 
-<a href="https://github.com/RISHIK396">
+<div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=RISHIK396&show_icons=true&hide_border=true&theme=transparent&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&bg_color=00000000"
-width="48%"
-/>
+[![Rishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RISHIK396)](https://github.com/RISHIK396)
 
-</a>
-
+</div>
 <a href="https://github.com/RISHIK396">
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK396&theme=transparent&hide_border=true&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&background=00000000"
-width="88%"
+width="100%"
 />
 
 </a>
@@ -310,7 +306,7 @@ width="88%"
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK396&layout=compact&hide_border=true&theme=transparent&title_color=C084FC&text_color=E9D5FF&bg_color=00000000&langs_count=8"
-width="42%"
+width="88%"
 />
 
 </a>
