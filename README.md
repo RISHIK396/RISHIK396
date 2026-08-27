@@ -6,26 +6,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=D8B4FE&center=true&vCenter=true&width=850&lines=Building+real-world+software+%F0%9F%9A%80;Full+Stack+%E2%80%A2+Backend+%E2%80%A2+AI;React+%2B+Node.js+%2B+NestJS;Turning+ideas+into+working+products;Build+%E2%80%A2+Break+%E2%80%A2+Debug+%E2%80%A2+Improve" />
 
-<br><br>
+<br>
 
 <div align="center">
 
 <a href="https://github.com/RISHIK396">
-<img src="https://img.icons8.com/fluency/96/github.png" width="42" alt="GitHub"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="38" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="42" alt="LinkedIn"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="38" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:rishik36chaudhary@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail.png" width="42" alt="Email"/>
+<img src="https://img.icons8.com/fluency/96/gmail.png" width="38" alt="Email"/>
 </a>
+
+</div>
 
 <br>
-
 <sub>
 <a href="https://github.com/RISHIK396">GitHub</a>
 &nbsp; • &nbsp;
