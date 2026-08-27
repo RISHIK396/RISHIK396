@@ -299,7 +299,7 @@ width="48%"
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK396&theme=transparent&hide_border=true&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&background=00000000"
-width="48%"
+width="88%"
 />
 
 </a>
