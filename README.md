@@ -1,174 +1,523 @@
+# 🚀 GitHub Profile README — Rishik Chaudhary
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Rishik%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Junior%20SDE%20@%20SIEC%20Education&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Web+Apps+%F0%9F%9A%80;React+%2B+NestJS+%2B+PostgreSQL;Currently+learning+Java+%E2%98%95;Open+to+AI-focused+Full+Stack+roles" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Rishik%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Junior%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+NestJS;Building+Real-World+Web+Applications;AI-Powered+Applications+%F0%9F%A4%96;Currently+Sharpening+Java+%26+DSA+%E2%98%95" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/your-github-username">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/your-github-username?tab=followers">
+<img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=6C63FF&label=Followers" />
+</a>
 
 </div>
 
-<br>
+---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
+
+Hey! I'm **Rishik Chaudhary** 👋
+
+I'm a **Full Stack Developer** who enjoys turning ideas into scalable, real-world applications.
+
+Currently working as a **Junior Software Developer at Down Town Engineers**, where I've worked across modern JavaScript/TypeScript stacks as well as **PHP/Laravel-based systems**.
 
 ```yaml
-name: Rishik
-role: Junior Software Developer @ SIEC Education Pvt. Ltd. (Pre-placement Offer)
-education: B.Sc. (Hons) Computer Science — ANDC, University of Delhi (Graduated)
-experience: Also worked with PHP/Laravel
-looking_for: AI-focused Full Stack Developer roles
-currently_learning: Java ☕
-fun_fact: I ship features faster with coffee ☕ and Tailwind
+name: Rishik Chaudhary
+
+role: Junior Software Developer
+
+company: SIEC Education Pvt. Ltd.
+
+education:
+  degree: B.Sc. (Hons.) Computer Science
+  university: University of Delhi
+
+backend:
+  - Node.js
+  - NestJS
+  - Express
+  - Laravel
+
+frontend:
+  - React
+  - JavaScript
+  - TypeScript
+  - Tailwind CSS
+
+databases:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+
+orms:
+  - Prisma
+  - Drizzle ORM
+  - Mongoose
+
+currently_learning:
+  - Java
+  - Data Structures & Algorithms
+  - AI Engineering
+
+interests:
+  - Full Stack Development
+  - AI-powered applications
+  - Backend architecture
+  - Real-time applications
+
+goal:
+  "Build software that solves real problems 🚀"
 ```
 
-<br>
+---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,php" />
+
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,socketio" />
+
+</p>
+
+### 🗄️ Databases & ORMs
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+
+</p>
+
+### 🤖 AI & Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman,figma" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+</p>
+
+---
+
+## 🚀 What I Work With
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
 
-**🔤 Languages**
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
+<td align="center" width="33%">
 
-**🎨 Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
+### 🎨 Frontend
+
+React
+JavaScript / TypeScript
+Tailwind CSS
+Vite
+Responsive UI
+Data Tables & Dashboards
 
 </td>
-<td valign="top" width="50%">
 
-**⚙️ Backend**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-</p>
+<td align="center" width="33%">
 
-**🗄️ Databases & ORMs**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-</p>
+### ⚙️ Backend
+
+Node.js
+NestJS
+Express
+Laravel
+REST APIs
+Socket.IO
 
 </td>
+
+<td align="center" width="33%">
+
+### 🗄️ Data
+
+PostgreSQL
+MySQL
+MongoDB
+Prisma
+Drizzle ORM
+Mongoose
+
+</td>
+
 </tr>
 </table>
 
-<div align="center">
+---
 
-**🎨 Design & Tools**
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+## 🤖 AI × Full Stack
 
-</div>
+One of my biggest interests is combining **AI with practical web applications**.
+
+I've been working with APIs and AI-powered workflows involving:
+
+```text
+                    ┌─────────────────────┐
+                    │     React Frontend  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    Backend / API    │
+                    │ Node.js / NestJS    │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+             ┌──────────────┐      ┌──────────────┐
+             │   Database   │      │   AI APIs    │
+             │ PostgreSQL   │      │ GPT / Gemini │
+             │ MySQL        │      └──────────────┘
+             └──────────────┘
+```
+
+### 🧠 Current AI Interests
+
+* AI-powered applications
+* LLM API integration
+* Speech-to-text pipelines
+* AI-based evaluation systems
+* Prompt engineering
+* AI + backend architecture
+* Automation workflows
+
+---
+
+## 🔥 Featured Work
+
+<details>
+<summary>🎙️ <b>AI-Powered IELTS Speaking Evaluation</b></summary>
 
 <br>
+
+A real-world system focused on evaluating IELTS Speaking responses.
+
+### Pipeline
+
+```text
+🎤 User Audio
+      ↓
+🗣️ Speech-to-Text
+      ↓
+📝 Transcript
+      ↓
+📊 Language Analysis
+      ↓
+🤖 Gemini / GPT
+      ↓
+📈 IELTS Evaluation
+```
+
+### Evaluation Areas
+
+* Fluency & Coherence
+* Lexical Resource
+* Grammatical Range & Accuracy
+* Pronunciation
+* Cue Card relevance
+* Discussion response analysis
+
+### Technologies
+
+`Laravel` `Python` `Faster-Whisper` `LanguageTool` `Gemini` `GPT`
+
+</details>
+
+<br>
+
+<details>
+<summary>📊 <b>CRM & Enterprise Applications</b></summary>
+
+<br>
+
+Worked on production-oriented CRM functionality involving:
+
+* Dynamic list configuration
+* Role-based permissions
+* Notifications
+* Real-time communication
+* Data tables
+* REST APIs
+* Database-driven UI
+* Backend services
+
+### Technologies
+
+`React` `Node.js` `NestJS` `Laravel` `MySQL` `PostgreSQL` `Drizzle` `Prisma` `Socket.IO`
+
+</details>
+
+<br>
+
+<details>
+<summary>🧠 <b>AI & Automation Experiments</b></summary>
+
+<br>
+
+Exploring how AI can be integrated into traditional software systems rather than building AI in isolation.
+
+Areas I'm experimenting with:
+
+* Gemini API
+* OpenAI APIs
+* Python AI pipelines
+* Speech processing
+* LLM-based analysis
+* AI agents
+* Automation
+
+</details>
+
+---
 
 ## 🌱 Currently Learning
 
 <div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+### ☕ Java + Data Structures & Algorithms
+
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
+
 <br><br>
 
-![Java Learning Progress](https://progress-bar.xyz/40/?title=Java&width=300&color=ED8B00)
+<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=redical&hide_border=true" alt="Activity Graph" width="90%"/>
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
-</div>
-
-<br>
-
-## 🕹️ Fun Zone
-
-<div align="center">
-
-<details>
-<summary>🐍 Snake game powered by my own contribution graph (click to expand)</summary>
-<br>
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="snake" width="80%"/>
 <br><br>
-<i>Set up via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — animates your real contribution graph.</i>
-</details>
 
-<br>
+<img src="https://progress-bar.xyz/40/?title=Java&width=400&color=ED8B00"/>
+
+<br><br>
+
+**Current focus**
+
+`Arrays` → `Searching` → `Two Pointer` → `Kadane` → `Hashing` → `Linked Lists` → `Trees` → `Graphs`
+
+</div>
+
+---
+
+## 🧩 My Developer Journey
+
+```text
+B.Sc. Computer Science
+        │
+        ▼
+   Web Development
+        │
+        ▼
+ React + Node.js
+        │
+        ▼
+ Backend Engineering
+        │
+        ├── NestJS
+        ├── Laravel
+        └── REST APIs
+        │
+        ▼
+ Database Engineering
+        │
+        ├── PostgreSQL
+        ├── MySQL
+        └── MongoDB
+        │
+        ▼
+ Real-Time Applications
+        │
+        └── Socket.IO
+        │
+        ▼
+ AI Integration 🤖
+        │
+        ├── GPT
+        ├── Gemini
+        └── Speech Processing
+        │
+        ▼
+        🚀
+ AI-Focused Full Stack Engineering
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <details>
-<summary>💬 Random dev quote (refreshes on reload)</summary>
-<br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</details>
+<summary><b>🐍 Click to see my contribution snake</b></summary>
 
 <br>
 
-<details>
-<summary>🎧 Spotify — what I'm vibing to (optional, needs setup)</summary>
-<br>
-<i>Connect via <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> to show a live now-playing widget here.</i>
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="90%"/>
+
+<br><br>
+
+<i>My GitHub contributions... but make them eat themselves 😄</i>
+
 </details>
 
 </div>
 
+---
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+> **Build → Break → Debug → Learn → Improve → Repeat 🔁**
+
 <br>
+
+I believe the best way to learn software engineering is to
+**build real things, break them, understand why they broke, and fix them.**
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+<table align="center">
+
+<tr>
+<td>🚀</td>
+<td><b>Become a stronger Full Stack Engineer</b></td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><b>Build production-grade AI applications</b></td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Master DSA & Problem Solving</b></td>
+</tr>
+
+<tr>
+<td>☕</td>
+<td><b>Become comfortable with Java</b></td>
+</tr>
+
+<tr>
+<td>🏗️</td>
+<td><b>Improve Backend & System Design skills</b></td>
+</tr>
+
+<tr>
+<td>🌎</td>
+<td><b>Contribute to meaningful open-source projects</b></td>
+</tr>
+
+</table>
+
+---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/your-github-username">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-site.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting!
+
+**If you find something interesting in my repositories, feel free to ⭐ it!**
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<p align="center"><i>⭐ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+</div>
