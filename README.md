@@ -356,28 +356,74 @@ width="85%"
 
 <div align="center">
 
-### 🚀 Let's build something interesting.
+<div align="center">
+
+## 🌐 Let's Connect
+
+### Building something interesting? Let's talk. 💜
 
 <br>
 
+<table>
+<tr>
+
+<td align="center" width="160">
+
 <a href="https://github.com/RISHIK396">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=18111F"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="52"/>
 </a>
+
+<br>
+
+### GitHub
+
+<sub>@RISHIK396</sub>
+
+</td>
+
+<td align="center" width="160">
 
 <a href="https://www.linkedin.com/in/rishik-chaudhary-6b7700261">
-<img src="https://img.shields.io/badge/LINKEDIN-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=24113F"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="52"/>
 </a>
+
+<br>
+
+### LinkedIn
+
+<sub>Connect with me</sub>
+
+</td>
+
+<td align="center" width="160">
 
 <a href="mailto:rishik36chaudhary@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-E9D5FF?style=for-the-badge&logo=gmail&logoColor=7C3AED"/>
+<img src="https://img.icons8.com/fluency/96/gmail.png" width="52"/>
+</a>
+
+<br>
+
+### Email
+
+<sub>Say hello 👋</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24113F,50:6D28D9,100:A855F7&height=2&section=header&width=700"/>
+
+<br>
+
+<a href="https://github.com/RISHIK396?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects-24113F?style=for-the-badge&labelColor=24113F&color=7C3AED"/>
 </a>
 
 <br><br>
 
-⭐ **Thanks for visiting!**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4C1D95,100:090014&height=140&section=footer" width="100%"/>
+<sub>💜 Thanks for stopping by — keep building, keep learning.</sub>
 
 </div>
